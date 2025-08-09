@@ -1,0 +1,10 @@
+.bg {
+    font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+    background-color: aqua;
+    height: 20cm;
+}    
+
+.text {
+    color: rgb(0, 0, 0);
+}
